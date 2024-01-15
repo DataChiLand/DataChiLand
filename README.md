@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @DataChiLand
-- 👀 I’m interested in making a career change into data migration
-- 🌱 I’m currently learning Phyton, Project Management, Scrum, Agile, Waterfall
-- 💞️ I’m looking to collaborate on Data and BI projects
+- 👋 Hi, I’m Logan
+- 👀 I’m interested in expanding my knowledge of Data
+- 🌱 I’m currently learning Phyton.
+- 🥷 Recruiter turned Salesforce Consultant 
+- 💞️ I’m looking to collaborate on Data and Salesforce projects
 - 📫 How to reach me via email l.anderson@legateai.com
 
 <!---
