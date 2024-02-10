@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Logan, HRIS Data and Salesforce Professional. 
 - 👀 I’m interested in expanding my knowledge of all things Data. 
-- 🌱 I’m currently working in Phyton and SQL.
+- 🌱 I’m currently working in Python and SQL.
 - 🥷 Recruiter turned Salesforce Consultant, Project Manager and Data
 - 💞️ I’m looking to collaborate on Data and Salesforce projects
 - 📫 How to reach me via email l.anderson@legateai.com
