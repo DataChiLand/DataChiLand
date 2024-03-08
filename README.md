@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Logan, HRIS Data and Salesforce Professional. 
+- 👋 Hi, I’m Logan
 - 👀 I’m interested in expanding my knowledge of all things Data. 
 - 🌱 I’m currently working in Python and SQL.
 - 🥷 Recruiter turned Salesforce Consultant, Project Manager and Data
