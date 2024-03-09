@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Logan
-- 👀 I’m interested in expanding my knowledge of all things Data. 
-- 🌱 I’m currently working in Python and SQL.
-- 🥷 Recruiter turned Salesforce Consultant, Project Manager and Data
-- 💞️ I’m looking to collaborate on Data and Salesforce projects
+- 👀 Hope to enguage on meaningful projects
+- 🌱Python, SQL 
+- 🥷 Recruiter, Salesforce, PMP CSM Project Manager
 - 📫 How to reach me via email l.anderson@legateai.com
 
 <!---
