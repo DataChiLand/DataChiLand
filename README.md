@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Logan
-- 👀 Hope to enguage on meaningful projects
+- 👀 Look at these eye 
 - 🌱Python, SQL 
 - 🥷 Recruiter, Salesforce, PMP CSM Project Manager
 - 📫 How to reach me via email l.anderson@legateai.com
