@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Logan
-- 🌱Python, SQL, ETL 
+- 🌱Python, SQL, JAVA, HTML 
 - 🥷 Recruiter, Human Capital, Salesforce, PMP, CSM, Agile Project Manager
 <!---
 DataChiLand/DataChiLand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
